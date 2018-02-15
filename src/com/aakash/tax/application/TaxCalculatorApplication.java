@@ -1,6 +1,6 @@
 package com.aakash.tax.application;
 
-import com.aakash.tax.TaxCalculator;
+import com.aakash.tax.calculator.TaxCalculator;
 import com.aakash.tax.calculator.impl.TaxCalculatorImpl;
 import com.aakash.tax.constant.TaxCalculatorConstants;
 import com.aakash.tax.data.DataValidator;

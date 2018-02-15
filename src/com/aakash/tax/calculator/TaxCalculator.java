@@ -1,4 +1,4 @@
-package com.aakash.tax;
+package com.aakash.tax.calculator;
 
 import java.math.BigDecimal;
 

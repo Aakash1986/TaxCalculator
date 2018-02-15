@@ -1,6 +1,6 @@
 package com.aakash.tax.calculator.impl;
 
-import com.aakash.tax.TaxCalculator;
+import com.aakash.tax.calculator.TaxCalculator;
 import com.aakash.tax.constant.TaxCalculatorConstants;
 
 import java.math.BigDecimal;
