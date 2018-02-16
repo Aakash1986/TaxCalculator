@@ -1,4 +1,4 @@
-package com.aakash.tax.calculator;
+package com.sopra.steria.tax.calculator;
 
 import java.math.BigDecimal;
 

@@ -1,7 +1,7 @@
-package com.aakash.tax.calculator.impl;
+package com.sopra.steria.tax.calculator.impl;
 
-import com.aakash.tax.calculator.TaxCalculator;
-import com.aakash.tax.constant.TaxCalculatorConstants;
+import com.sopra.steria.tax.calculator.TaxCalculator;
+import com.sopra.steria.tax.constant.TaxCalculatorConstants;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
